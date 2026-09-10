@@ -1,0 +1,10 @@
+{
+  "name": "A little easier",
+  "short_name": "A little easier",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#f5f0e8",
+  "description": "A calm, local ADHD planning space for today and the week.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
